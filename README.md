@@ -77,10 +77,10 @@ Uppercase = White, Lowercase = Black.
 
 ## 🛠️ Planned Features (for the near future 🫡)
 
-- No en passant
-- No castling
-- No stalemate detection
-- Pawn always promotes to Queen (no choice)
+- en passant
+- castling
+- stalemate detection
+- Pawn always promotion with choice
 
 ---
 
